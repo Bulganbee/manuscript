@@ -1,6 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Federo&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
-
+em {font-style: italic;}
 body {
 	font-family: "Montserrat";
 	font-size: 22px;
