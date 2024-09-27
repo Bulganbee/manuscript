@@ -21,13 +21,24 @@ header {
 }
 .author {
 	margin-left: 0%;
-	color:#AEAEAE
+	color:#817f7f
 	font-family: "Montserrat";
 	margin-bottom: 4px;
 }
 #design {
-	line-height: 100px;
+	font-size: 103px;
 	letter-spacing: 1%;
+	margin-bottom: 60px;
+}
+#andcrime {
+	font-size: 100px;
+	margin-bottom: 36px;
+	font-family: "Federo";
+	color: #ED4A34;
+}
+#and {
+	font-family: "Montserrat";
+	color: #E7E6E6;
 }
 h1 {
 	font-size: 100px;
@@ -117,4 +128,25 @@ p {
 	margin-left: 30%;
 	margin-right: 5%;
 	margin-bottom: 30%;
+}
+h2 {
+	font-size: 100px;
+	margin-left: 2%;
+}
+.mytake {
+	font-family: "Montserrat";
+	font-size: 68px;
+	margin-bottom: 40px;
+	color:#E7E6E6
+	
+}
+#the {
+	font-family: "Montserrat";
+	color:#E7E6E6
+}
+.thereading {
+	color: #ED4A34;
+	font-size: 64px;
+	margin-bottom: 4%;
+	font-family: "Federo"
 }
