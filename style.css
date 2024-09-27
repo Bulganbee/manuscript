@@ -1,16 +1,120 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Federo&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
 body {
-	font-family: "Noto Sans", sans-serif;
-	font-size: 20px;
-	padding: 28px;
+	font-family: "Montserrat";
+	font-size: 22px;
+	padding: 42px;
+	line-height: 165%;
+	background-color: #191818;
+	color:#E7E6E6
 }
-h2 {
-	color:dodgerblue;
-	font-size: 64px;
+header {
+	margin-left: 2%;
+	margin-top: 2%;
 }
-p {
-	max-width: 65ch;
+#smallertitle {
+	margin-left: 0%;
+	margin-bottom: 4px;
+	font-family: "Federo";
+	font-size: 32px;
+}
+.author {
+	margin-left: 0%;
+	color:#AEAEAE
+	font-family: "Montserrat";
+	margin-bottom: 4px;
+}
+#design {
+	line-height: 100px;
+	letter-spacing: 1%;
 }
 h1 {
 	font-size: 100px;
-	color: tomato;
+	color: #f1f1f1;
+}
+#crime {
+	color: #ED4A34;
+	font-family: "Federo"
+}
+
+.introduction-paragraph {
+	color: #E7E6E6;
+	margin-left: 35%;
+	margin-right: 5%;
+
+}
+p {
+	max-width: 65ch;
+	margin-bottom: 20%;
+	margin-left: 5%;
+}
+.second-paragraph {
+	margin-bottom: 2%;
+}
+#text-highlight1 {
+	color: #ED4A34;
+}
+.fourth-paragraph {
+	margin-bottom: 2%;
+	margin-left: 30%;
+	margin-right: 6%;
+}
+#text-highlight2 {
+	color: #ED4A34;
+}
+.fifth-paragraph {
+	margin-left: 30%;
+	margin-right: 10%;
+}
+.sixth-paragraph {
+	margin-bottom: 2%;
+}
+.seventh-paragraph {
+	font-size: 26px;
+	margin-right: 30%;
+	color:#ED4A34
+}
+.para-eight {
+	margin-bottom: 2%;
+	margin-left: 30%;
+	margin-right: 5%;
+}
+.para-nine {
+	font-size: 42px;
+	line-height: 164%;
+	margin-left: 30%;
+	margin-right: 5%;
+	margin-bottom: 30%;
+}
+.para-ten {
+	margin-bottom: 2%;
+	margin-right: 30%;
+}
+.para-eleven {
+	margin-bottom: 2%;
+	font-size: 42px;
+	line-height: 164%;
+}
+#text-highlight3 {
+	color: #ED4A34;
+}
+#text-highlight4 {
+	color: #ED4A34;
+}
+.para-twelve {
+	margin-bottom: 30%;
+	margin-right: 30%;
+}
+.para-thirteen {
+	margin-left: 30%;
+	margin-right: 5%;
+}
+.para-fourteen {
+	margin-bottom: 2%;
+}
+.para-sixteen {
+	margin-left: 30%;
+	margin-right: 5%;
+	margin-bottom: 30%;
 }
