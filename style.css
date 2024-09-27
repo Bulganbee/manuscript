@@ -150,3 +150,35 @@ h2 {
 	margin-bottom: 4%;
 	font-family: "Federo"
 }
+.response-para-one {
+	margin-left: 40%;
+	margin-right: 6%;
+	margin-bottom: 20%;
+}
+.response-para-two {
+	margin-bottom: 4%;
+}
+#highlight-text-response1 {
+	color: #ED4A34;
+}
+.response-para-three {
+	margin-bottom: 30%;
+}
+#highlight-text-response2 {
+	color: #ED4A34;
+}
+.response-para-four {
+	margin-left: 40%;
+	margin-right: 6%;
+	margin-bottom: 40%;
+}
+.response-para-five {
+	margin-bottom: 4%;
+	margin-right: 30%;
+}
+#highlight-text-response3 {
+	color: #ED4A34;
+}
+.response-para-six {
+	margin-right: 30%;
+}
