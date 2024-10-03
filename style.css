@@ -19,7 +19,7 @@ h2 {
 	color: #b5b5b5;
 	font-family: "Federo";
 	margin-left: 2%;
-	line-height: 90%;
+	margin-bottom: 10px;
 }
 #and {
 	font-family: "Montserrat";
@@ -29,11 +29,12 @@ h2 {
 	font-family: "Federo";
 	color: #ED4A34;
 }
-
-#author {
-	font-size: 23px;
+h3 {
+	font-size: 21.9px;
 	color: #6f6e6e;
 	font-family: "Montserrat";
+	line-height: 35px;
+	margin-left: 1%;
 }
 
 body {
