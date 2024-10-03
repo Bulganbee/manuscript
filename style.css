@@ -50,7 +50,7 @@ p {
 
 section {
 	padding: 42px;
-	padding-top: 340px;
+	padding-top: 370px;
 	margin-left: 33%;
 }
 
@@ -86,7 +86,7 @@ div {
 	color: #ED4A34;
 }
 #myname {
-	font-size: 23px;
+	font-size: 50px;
 	font-family: "Montserrat";
 	color: #3e3c3c;
 }
@@ -94,6 +94,7 @@ div {
 	background-color: #dcdcdc;
 	color: #191818;
 	padding-left: 35.5%;
+	padding-top: 280px;
 	margin-left: 0%;
 }
 footer {
